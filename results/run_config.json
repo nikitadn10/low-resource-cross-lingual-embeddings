@@ -1,0 +1,14 @@
+{
+  "language": "Hindi",
+  "language_code": "hi",
+  "dataset": "Helsinki-NLP/opus-100",
+  "dataset_config": "en-hi",
+  "base_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "train_size": 8000,
+  "dev_size": 500,
+  "test_size": 1000,
+  "epochs": 1,
+  "batch_size": 64,
+  "seed": 42,
+  "mean_r1_improvement_percentage_points": 9.35
+}

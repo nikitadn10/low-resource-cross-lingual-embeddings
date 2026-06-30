@@ -1,0 +1,10 @@
+torch
+sentence-transformers
+transformers
+datasets
+pandas
+numpy
+matplotlib
+scikit-learn
+umap-learn
+tqdm
